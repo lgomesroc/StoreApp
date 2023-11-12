@@ -1,0 +1,6 @@
+/StoreApp/.vs
+/StoreApp/bin
+/StoreApp.tests/bin
+/StoreApp/obj
+/StoreApp.tests/obj
+/StoreApp/StoreApp.csproj.user
